@@ -4,8 +4,9 @@
   </main>
 </template>
 
-<script lang="ts">
-export default defineNuxtComponent({
+<script setup>
+useHead({
+  titleTemplate: s => s ? `${s} | žg's webpage` : 'Žan Grad\'s personal webpage',
 })
 </script>
 

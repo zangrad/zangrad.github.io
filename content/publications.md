@@ -1,3 +1,6 @@
+---
+title: Publications and expositions
+---
 # Publications
 
 1. Fundamentals on Lie categories. Preprint available on arXiv soon.

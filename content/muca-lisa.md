@@ -1,3 +1,7 @@
+---
+title: 'Lisa and Crni'
+---
+
 [Back](/)
 
 One of my favorite creatures -- Lisa -- trying to warn me that my coffee might be poisoned. 

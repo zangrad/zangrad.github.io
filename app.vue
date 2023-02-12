@@ -2,7 +2,7 @@
   <div class="app">
     <div class="heading">
       <span class="title"><nuxt-link to='/'>Žan Grad</nuxt-link></span>
-      <span class="description">Doctoral student at CAMGSD, Instututo Superior Técnico, Lisbon.</span>
+      <span class="description">Doctoral student at CAMGSD, Instituto Superior Técnico, Lisbon.</span>
       <ul class="nav">
         <li><nuxt-link :to="'/'">Info // Bio</nuxt-link></li>
         <li><nuxt-link :to="'/publications'">Publications and expositions</nuxt-link></li>
@@ -42,7 +42,7 @@ body{
   background: #0f877f; /* WebKit/Blink Browsers */
 }
 a::selection{
-  color: #fff;
+  // color: #fff;
 }
 ::-moz-selection {
   background: #0f877f; /* Gecko Browsers */
