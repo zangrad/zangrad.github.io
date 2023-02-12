@@ -5,6 +5,10 @@ export default defineNuxtConfig({
     head: {
       link: [
         { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/katex@0.11.0/dist/katex.min.css' }
+      ],
+      meta: [
+        // { name: 'description', content: '' },
+        { name: "google-site-verification", content: "5XJiG03RmRFYp12aMDeXTie640ueCk-guBIZq7Dy29A" }
       ]
       // script: [{ src: 'https://polyfill.io/v3/polyfill.min.js?features=es6' }],
       // script: [{ id: 'MathJax-script', async: true,  src: 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js' }],
