@@ -1,0 +1,11 @@
+$serif:            'Inconsolata', monospace !default;
+$mono:             'Inconsolata', monospace !default; //'Inconsolata', monospace !default;
+$bordeaux:         #0a3c58 !default;
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1440px
+) !default;
