@@ -9,7 +9,7 @@ title: Publications, talks and expositions
 
 ## Upcoming talks 
 
-- Lie categories, [Geometry Seminar of Lisbon](https://geolis.math.tecnico.ulisboa.pt/seminars), May 2 2023.
+- Lie categories, [Geometry Seminar of Lisbon](https://geolis.math.tecnico.ulisboa.pt/seminars), May 9 2023.
 
 ## Previous talks
 
