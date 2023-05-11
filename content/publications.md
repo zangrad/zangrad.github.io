@@ -9,10 +9,11 @@ title: Publications, talks and expositions
 
 ## Upcoming talks 
 
-- Lie categories, [Geometry Seminar of Lisbon](https://geolis.math.tecnico.ulisboa.pt/seminars), May 9 2023.
+- A mini course on Lie categories at [Lie groupoid and algebroid week in Coimbra II.](https://sites.google.com/view/ii-groupoid-week)
 
 ## Previous talks
 
+- Lie categories, [Geometry Seminar of Lisbon](https://geolis.math.tecnico.ulisboa.pt/seminars?id=6965), May 9 2023.
 - Talk on Lie categories, Ljubljana, [March 20](https://www.fmf.uni-lj.si/en/news/event/945/zan-grad-fundamentals-of-lie-categories/) and [March 27](https://www.fmf.uni-lj.si/en/news/event/952/zan-grad-fundamentals-of-lie-categories-2-del/) 2023. Link to videos: [Part 1](https://www.youtube.com/watch?v=f6Qe1EjB-dg), [Part 2](https://www.youtube.com/watch?v=oZi-IBbPwUw).
 
 # Expositions
