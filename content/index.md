@@ -9,7 +9,7 @@ My research interests include Lie theory, differential geometry and topology, in
 
 2020-2021: [Teaching assistent](https://www.fmf.uni-lj.si/sl/imenik/1310/grad-zan/) of mathematics at University of Ljubljana, Faculty of Mathematics and Physics.
 
-2020: M. Sc. in Pure Mathematics at University of Ljubljana, FMF. Thesis: [*Gauge field theory, Yang–Mills–Higgs equations and spin structures on Lorentzian manifolds*](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=119853&lang=eng).
+2020: M. Sc. in Pure Mathematics at University of Ljubljana, FMF. Thesis: [*Gauge field theory, Yang–Mills–Higgs equations and spin structures on Lorentzian manifolds*](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=119853&lang=eng), supervised by [Sašo Strle](https://www.researchgate.net/profile/Saso-Strle).
 
 2017: B. Sc. in Physics at University of Ljubljana, FMF. Thesis: *Wave function collapse upon measuring the number of photons in a cave*.
 
