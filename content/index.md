@@ -5,7 +5,7 @@ My research interests include Lie theory, differential geometry and topology, in
 
 ## Short bio
 
-2021-ongoing: Started a PhD in geometry and topology at [CAMGSD, Instituto Superior Técnico](https://camgsd.tecnico.ulisboa.pt/), under supervision of [Pedro Resende](https://www.math.tecnico.ulisboa.pt/~pmr/).
+2021-ongoing: Started a PhD in geometry and topology at [CAMGSD, Instituto Superior Técnico](https://camgsd.tecnico.ulisboa.pt/), under supervision of [Pedro Resende](https://www.math.tecnico.ulisboa.pt/~pmr/) and [Ioan Mărcuț](https://sites.google.com/view/marcut).
 
 2020-2021: [Teaching assistent](https://www.fmf.uni-lj.si/sl/imenik/1310/grad-zan/) of mathematics at University of Ljubljana, Faculty of Mathematics and Physics.
 
