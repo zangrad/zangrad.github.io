@@ -3,7 +3,7 @@ title: Publications, talks and expositions
 ---
 # Publications
 
-1. Fundamentals of Lie categories. Preprint available [on arXiv](https://arxiv.org/abs/2302.05233).
+1. Fundamentals of Lie categories. Available [on arXiv](https://arxiv.org/abs/2302.05233), to appear in J. Noncommut. Geom.
 
 # Talks
 
