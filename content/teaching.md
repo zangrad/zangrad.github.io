@@ -5,8 +5,8 @@
 
 - [Analysis on manifolds](https://www.youtube.com/playlist?list=PLyrzp6-VrcEhfTbgxjVNz8Te9LGVxU4as)
 - [Analysis 4](https://www.youtube.com/playlist?list=PLyrzp6-VrcEgzQVPQFuUSWGZ6lPKmYDq0) (Financial mathematicians): ODE's, Calculus of variations, PDE's
-- [Basics of mathematical analysis](https://www.youtube.com/playlist?list=PLyrzp6-VrcEjQwcqs4DnY7bb9KRhAozH5) (Faculty of computer and information science)
-- [Matematics with statistics](https://www.youtube.com/playlist?list=PLyrzp6-VrcEi4PB7HEL4oZszn3xK2IsoN) (Faculty of pharmacy)
+- Basics of mathematical analysis (Faculty of computer and information science) <!--- https://www.youtube.com/playlist?list=PLyrzp6-VrcEjQwcqs4DnY7bb9KRhAozH5 -->
+- Matematics with statistics (Faculty of pharmacy) <!--- https://www.youtube.com/playlist?list=PLyrzp6-VrcEi4PB7HEL4oZszn3xK2IsoN -->
 
 ## Spring semester 2020/21 at University of Ljubljana:
 
