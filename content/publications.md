@@ -15,7 +15,7 @@ title: Publications, talks and expositions
 
 # Expositions
 
-- A constructive proof of Lie's third theorem for Lie algebras ([part I](/pdfs/constructive-proof-lie-third-theorem-part-i.pdf), [part II](/pdfs/constructive-proof-lie-third-theorem-part-ii.pdf)). This is an exposition of the integration technique from the book by Duistermaat and Kolk, given during the *Integration seminar* in Spring 2024.
+- A constructive proof of Lie's third theorem for Lie algebras: [part I](/pdfs/constructive-proof-lie-third-theorem-part-i.pdf), [part II](/pdfs/constructive-proof-lie-third-theorem-part-ii.pdf). This is an exposition of the integration technique from the book by Duistermaat and Kolk, which I presented at the *Integration seminar* in Spring 2024.
 - [On the construction of groupoid $C^*$-algebras.](/pdfs/on-the-construction-of-groupoid-c-algebras.pdf)
 - [Symplectic groupoids in Poisson geometry](/pdfs/symplectic-groupoids-in-poisson-geometry.pdf)
 - [Sheaves on topological spaces and toposes](/pdfs/sheaves-on-topological-spaces-and-toposes.pdf)
