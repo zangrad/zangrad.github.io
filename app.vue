@@ -5,7 +5,7 @@
       <span class="description">Doctoral student at CAMGSD, Instituto Superior Técnico, Lisbon.</span>
       <ul class="nav">
         <li><nuxt-link :to="'/'">Info // Bio</nuxt-link></li>
-        <li><nuxt-link :to="'/publications'">Publications, talks and expositions</nuxt-link></li>
+        <li><nuxt-link :to="'/publications'">Research // Publications and expositions, talks, workshops and conferences</nuxt-link></li>
         <li><nuxt-link :to="'/teaching'">Teaching</nuxt-link></li>
       </ul>
     </div>

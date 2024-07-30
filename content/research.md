@@ -1,5 +1,5 @@
 ---
-title: "Research // Publications and expositions, talks, workshops and conferences"
+title: "Research"
 ---
 # Publications
 
