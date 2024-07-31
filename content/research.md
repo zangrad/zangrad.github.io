@@ -24,7 +24,7 @@ In Slovenian:
 
 - [Stokes theorem and its use in relativity](/pdfs/stokes-in-relativnost.pdf)
 
-# Conference and workshop schedule
+# Conference schedule
 
 ## 2024
 - [XI Workshop on Poisson Geometry and Related Topics](https://poissongeometry.github.io/), November 4-8
